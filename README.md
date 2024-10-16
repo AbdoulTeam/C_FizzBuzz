@@ -1,4 +1,3 @@
 # C_FizzBuzz
 FizzBuzz kata
-jejdjejdenj
-dekdeldk
+C'est bon
