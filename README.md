@@ -1,3 +1,3 @@
 # C_FizzBuzz
 FizzBuzz kata
-C'est bon
+C'est Good
